@@ -1,4 +1,4 @@
-package skit_codes;
+package org.tnsif.accenture.c2tc.basics;
 
 public class VariableDemo {
 		int cost=10;//instance var

@@ -1,4 +1,4 @@
-package oopsdemo;
+package org.tnsif.accenture.c2tc.oopsDemo;
 
 class Course //parent class //base class //super class
 {
